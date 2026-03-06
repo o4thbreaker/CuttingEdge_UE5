@@ -106,11 +106,7 @@ Handles player abilities such as dash and ultimate attacks.
 
 ---
 
-# Technologies Used
-
-Engine
-
-• Unreal Engine 5
+# Technologies and Systems Used
 
 Systems
 
@@ -127,7 +123,7 @@ Technologies
 - Animation Notifies (and other Animation-related stuff such as Montages, AnimGraph, AnimBP, Blendspace, etc)
 - AI Systems (BehaviorTree, AIController, EQS, AIDecorators, AITasks)
 - Multicast Delegates
-- Timelines
+- Timelines\
 ... and many more
 ---
 
