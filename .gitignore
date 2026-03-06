@@ -73,3 +73,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Models
+GhostSamurai_Bundle/
+ContainerYard/
+_GAME/DownloadedAssets/
+Rifle_01/
+
+# Weird stuff
+Source/FBX
