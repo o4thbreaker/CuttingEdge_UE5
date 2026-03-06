@@ -2,7 +2,6 @@
 
 ![Combat Demo](README_Resources/demo_v3.gif)
 
-
 Gameplay prototype demonstrating a modular melee combat system implemented in **Unreal Engine 5 using C++**.
 
 The project focuses on implementing responsive combat mechanics, reusable gameplay systems, and scalable architecture using the **Unreal Gameplay Framework**.
@@ -10,14 +9,14 @@ The project focuses on implementing responsive combat mechanics, reusable gamepl
 ---
 # Gameplay Video
 
-[Showcase](https://youtu.be/x7HhaHhOg9k)
+[Showcase Video Link](https://youtu.be/x7HhaHhOg9k)
 
 The video demonstrates:
 
-• Combo-based melee attacks
-• Enemy combat interactions
-• Dash ability
-• Ultimate attack mechanic
+- Combo-based melee attacks
+- Enemy combat interactions
+- Dash ability
+- Ultimate attack mechanic
 
 ---
 
@@ -29,11 +28,11 @@ The main focus of the project is not creating a full game, but building **reusab
 
 Implemented systems include:
 
-• Modular combat system
-• Damage handling system
-• Player abilities (dash / ultimate)
-• Enemy combat interaction
-• Gameplay architecture using Unreal Gameplay Framework
+- Modular combat system
+- Damage handling system
+- Player abilities (dash / ultimate)
+- Enemy combat interaction
+- Gameplay architecture using Unreal Gameplay Framework
 
 ---
 
@@ -45,10 +44,10 @@ The combat system supports combo-based melee attacks and special abilities.
 
 Features:
 
-• Combo attack logic
-• Damage calculation system
-• Ability-based attacks (dash / ultimate)
-• Interaction between player and enemy characters
+- Combo attack logic
+- Damage calculation system
+- Ability-based attacks (dash / ultimate)
+- Interaction between player and enemy characters
 
 ---
 
@@ -58,8 +57,8 @@ The project implements a lightweight ability system inspired by **Gameplay Abili
 
 Abilities include:
 
-• Dash ability
-• Ultimate attack ability
+- Dash ability
+- Ultimate attack ability
 
 The system allows easy extension with additional abilities.
 
@@ -71,9 +70,9 @@ Enemy characters react to combat events triggered by the player.
 
 Interactions include:
 
-• Damage application
-• Combat reaction logic
-• Ability impact handling
+- Damage application
+- Combat reaction logic
+- Ability impact handling
 
 ---
 
