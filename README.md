@@ -114,20 +114,20 @@ Engine
 
 Systems
 
-• Unreal Gameplay Framework
-• Modular gameplay architecture
-• Scalable damage and combat systems
-• Doom-like attack token system
-• Simple event system
-• Attack wave system
+- Unreal Gameplay Framework 
+- Modular gameplay architecture
+- Scalable damage and combat systems
+- Doom-like attack token system
+- Simple event system
+- Attack wave system
 
 Technologies
 
-• Motion Warping
-• Animation Notifies (and other Animation-related stuff such as Montages, AnimGraph, AnimBP, Blendspace, etc)
-• AI Systems (BehaviorTree, AIController, EQS, AIDecorators, AITasks)
-• Multicast Delegates
-• Timelines
+- Motion Warping
+- Animation Notifies (and other Animation-related stuff such as Montages, AnimGraph, AnimBP, Blendspace, etc)
+- AI Systems (BehaviorTree, AIController, EQS, AIDecorators, AITasks)
+- Multicast Delegates
+- Timelines
 ... and many more
 ---
 
